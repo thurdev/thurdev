@@ -44,8 +44,8 @@
 </a>
 
 <h3>⚒ Workspace Spec</h3>
-<img src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-<img src="https://img.shields.io/badge/amd-Ryzen%205%203500U-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white">
+* 🏠 Home - <img src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+* 💼 Job <img src="https://img.shields.io/badge/amd-Ryzen%205%203500U-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white">
 
 ------------
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
