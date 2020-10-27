@@ -43,5 +43,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thurdev&repo=TH_BTC&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" />
 </a>
 
+<h3>⚒ Workspace Spec</h3>
+<img src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/amd-Ryzen%205%203500U-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white">
+
 ------------
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
