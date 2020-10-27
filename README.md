@@ -35,8 +35,8 @@
 <a href="https://github.com/thurdev/AyxBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thurdev&repo=AyxBot&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/thurdev/CovidFlask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thurdev&repo=CovidFlask&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" />
+<a href="https://github.com/thurdev/TH_BTC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thurdev&repo=TH_BTC&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" />
 </a>
 
 ------------
