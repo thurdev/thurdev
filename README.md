@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
 
 💼 Job
+<br>
 <img src="https://img.shields.io/badge/huawey-matebook%20d15%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
 
 ------------
