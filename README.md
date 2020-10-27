@@ -12,25 +12,20 @@
 <p>Welcome to my page! </br> I'm Arthur, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>São Paulo, Brasil</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Lisbon, Portugal</b>. </p>
 <h3>💻 Things I code with</h3>
 <p>
-  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-43853d?style=flat-square&logo=JavaScript&logoColor=white&color=yellow" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-43853d?style=flat-square&logo=CSS3&logoColor=white&color=blue" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <br>
-  <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-43853d?style=flat-square&logo=JAVA&logoColor=white&color=important" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-43853d?style=flat-square&logo=SQLite&logoColor=white&color=green" />
-  <br>
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white&color=red"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white&color=blue"/>
-  <br>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=Vue.js&logoColor=white&color=success" />
-  <br>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=MySQL&logoColor=white&color=ff69b4" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=PHP&logoColor=white&color=informational" />
-  <br>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-43853d?style=flat-square&logo=GitHub&logoColor=white&color=blueviolet" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-43853d?style=flat-square&logo=Postman&logoColor=white&color=orange" />
+  <img alt="JS" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm%20-%2343853D.svg?&style=for-the-badge&logo=npm&logoColor=white" /> 
+  <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <h3>📈 My Github Stats</h3>
