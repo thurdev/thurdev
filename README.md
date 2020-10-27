@@ -18,7 +18,7 @@
   <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm%20-%2343853D.svg?&style=for-the-badge&logo=npm&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
