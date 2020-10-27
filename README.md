@@ -1,4 +1,10 @@
 [![Header](https://raw.githubusercontent.com/thurdev/thurdev/main/header_image.png "Header")](https://github.com/thurdev/)
+<a href="https://www.linkedin.com/in/arthur-brites-21ab54172/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://stackoverflow.com/users/14532135/thurdev">
+  <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+</a>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
