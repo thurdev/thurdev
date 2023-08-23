@@ -9,7 +9,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Arthur, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>São Paulo, Brasil</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Lisbon, Portugal</b>. </p>
+<p>Welcome to my page! </br> I'm Thur, Fullstack developer from <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png?raw=true" width="13"/> <b>São Paulo, Brasil</b>, currently living in <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/pt.png?raw=true" width="13"/> <b>Lisbon, Portugal</b>. </p>
 <h3>💻 Things I code with</h3>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
